@@ -1,3 +1,4 @@
 node_modules/
 .env
 driver/chromedriver.exe
+package-lock.json
