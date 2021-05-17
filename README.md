@@ -2,7 +2,7 @@
 
 * use selenium webdriver
 * do a scan every 10 seconds on the EVGA BStock page https://www.evga.com/products/ProductList.aspx?type=8
-* send window notification if the page 
+* send window notification if the page contain RTX GPU
 
 ### Before run
 
