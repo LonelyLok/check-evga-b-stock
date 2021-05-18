@@ -1,5 +1,6 @@
 ## Check EVGA BStock for RTX GPU
 
+* Warning!! EVGA will ban IP address if you access their website too many times in short period of time. Use this at your own risk.
 * use selenium webdriver
 * do a scan every 10 seconds on the EVGA BStock page https://www.evga.com/products/ProductList.aspx?type=8
 * send window notification if the page contain RTX GPU
